@@ -151,9 +151,8 @@ function App() {
               position: "absolute",
               marginLeft: "auto",
               marginRight: "auto",
-              left: 500,
-              bottom: 650,
-              right: 0,
+              right: "calc(50% - 300px)",
+              top:  "calc(50% - 220px)",
               textAlign: "center",
               height: 100,
             }}
